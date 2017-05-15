@@ -1,4 +1,4 @@
-package amazon.interview.questions;
+package amazon.interview.questions.searching;
 
 /**
  * Created by govind.bhone on 5/14/2017.
