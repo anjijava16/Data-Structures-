@@ -1,4 +1,4 @@
-package amazon.interview.questions;
+package amazon.interview.questions.datastructure;
 
 import java.util.Arrays;
 
