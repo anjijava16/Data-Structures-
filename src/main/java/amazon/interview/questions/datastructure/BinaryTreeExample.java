@@ -284,6 +284,7 @@ public class BinaryTreeExample {
         tree.insert(root, 5);
         tree.insert(root, 15);
         tree.insert(root, 8);
+        tree.delete(root,8);
         System.out.println(tree.find(root, 8));
         System.out.println(tree.find(root, 80));
 
